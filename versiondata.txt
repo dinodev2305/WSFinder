@@ -1,0 +1,2 @@
+Version 1.0.1 (Patch):
+     Der "#8211;" Buchstabe Problem wurde behoben.
