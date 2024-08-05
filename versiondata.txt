@@ -1,3 +1,3 @@
 Version 1.1.0 (Minor Update)  05.08.2024:
      Der "#8211;" Buchstabe Problem wurde behoben.
-     Update Info Abrufer wurde hinzugefügt.
+     Update Info Abrufer wurde hinzugefuegt.
