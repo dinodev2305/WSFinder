@@ -2,3 +2,4 @@ Version 1.2.0 (Minor Update)  06.08.2024:
      Update log is now only english.
      Level input field will be cleared after submit.
      Level number will now be displayed next to solution.
+     You can press enter to search now.
